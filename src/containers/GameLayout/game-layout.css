@@ -1,0 +1,22 @@
+.game-layout {
+    content: "";
+    display: table;
+    clear: both;
+}
+
+.component {
+    float: left;
+    width: 50%;
+}
+
+.letter-field {
+    width: 30px;
+    height: 40px;
+    font-size: 25px;
+}
+
+.option-alphabets {
+    width: 50px;
+    height: 50px;
+    font-size: 20px;
+}
